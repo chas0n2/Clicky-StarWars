@@ -1,16 +1,15 @@
 import React from 'react'
 import './style.css'
 
-function Images(props) {
+function ImageCard(props) {
     return (
-        <div className='img'>
+        <div className='image'>
             <img
-            src={`img/${props.img}`}
-            alt='Star Wars'
-            onClick={() => props.clicked(props.id)}>
-            </img>
+            alt={ props.name }
+            src={ props.image }
+            onClick={ () => props.clicked(props.id)} />
         </div>
     )
 }
 
-export default Images
+export default ImageCard
