@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "image": "./darthmaul1.jpg",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "image": "./darthvader2.jpg",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "image": "./luke3.jpg",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "image": "./jarjar4.jpg",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "image": "./hansolo5.jpg",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "image": "./leia6.jpg",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "image": "./chewy7.jpg",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "image": "./yoda9.jpg",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "image": "./mace10.jpg",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "image": "./bobafett11.jpg",
+        "clicked": false
+    }
+]
